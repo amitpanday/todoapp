@@ -55,15 +55,7 @@ You can learn more in the [Ract-Native CLI.](https://reactnative.dev/docs/enviro
 
 To learn React Native, check out the [React-Native documentation.](https://reactnative.dev/)
 
+## Screen Shot
 
-
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/amitpanday/todoapp/blob/master/src/screenshot/addtask.png?raw=true|width=10)
+![](https://github.com/amitpanday/todoapp/blob/master/src/screenshot/home.png?raw=true)
